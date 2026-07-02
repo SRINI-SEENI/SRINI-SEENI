@@ -50,9 +50,3 @@ Most of my work centers on **RAG systems** and **LLM agents**, backed by the ful
 🤝  Open to teaming up on AI/ML hackathons and collaborative builds
 ```
 
-#### 📊 stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRINI-SEENI&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SRINI-SEENI&layout=compact&hide_border=true)
-
-open to AI internships & collabs · [srinivasann257@gmail.com](mailto:srinivasann257@gmail.com)
